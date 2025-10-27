@@ -10,5 +10,7 @@ git remote add origin https://github.com/Ab-GitHub-2023/Daytwo.git
 git push -u origin main
 …or push an existing repository from the command line
 git remote add origin https://github.com/Ab-GitHub-2023/Daytwo.git
+C:\MSI_Work\work\Git_test\Daytwo> git push -u origin master
+if main then :
 git branch -M main
 git push -u origin main
