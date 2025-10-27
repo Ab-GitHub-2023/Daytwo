@@ -14,3 +14,4 @@ C:\MSI_Work\work\Git_test\Daytwo> git push -u origin master
 if main then :
 git branch -M main
 git push -u origin main
+Lets ef I use only git push - will go to master 
