@@ -1,4 +1,5 @@
 Day two assignment :
+The following instruction from Github.com when you create new repo
 …or create a new repository on the command line
 echo "# Daytwo" >> README.md
 git init
